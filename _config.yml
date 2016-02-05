@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9910788630904237
+  lightness: 0.5634517286364992
+  rhythmicContrast: 0.48564704309607354
+  saturation: 0.5224803497107671
+cta: {}
+layout_spectrum: 0.8725135858276152
+name: sport
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.26397654980841523
